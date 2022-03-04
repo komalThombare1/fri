@@ -4,6 +4,9 @@ using namespace std;
 int main()
 {    
     int divisor, dividend, quotient, remainder;
+    int a=2;
+     cout << "value of a is: ";
+    cin >> a;
 
     cout << "Enter dividend: ";
     cin >> dividend;
